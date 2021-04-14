@@ -85,8 +85,6 @@ Currently, app icon export isn't supported yet.
  
 ## Preview
 
-(Image here)
-
 The preview page contains information about actions that will be executed in your Respresso project. 
 These actions can be:
  - create a new asset
