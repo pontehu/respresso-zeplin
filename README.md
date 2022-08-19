@@ -1,3 +1,20 @@
+# 🛑 Docs out-of-date notice! 🛑
+This documentation is not updated anymore. 
+All documentation of Respresso moved to https://respresso.io/docs.
+## ✔️ Up-to-date docs of the Zeplin extension is here:
+| Content                       | Link                                                                         |
+| ----------------------------- | -----------------------------------------------------------------------------|
+| Installation + Usage          | https://respresso.io/docs/integration-zeplin-extension                       |
+| Config options                | https://respresso.io/docs/integration-introduction                           |
+| Localization specific options | https://respresso.io/docs/localization/zeplin-extension                      |
+| Image specific options        | https://respresso.io/docs/image/zeplin-extension                             |
+| Color specific options        | https://respresso.io/docs/color/zeplin-extension                             |
+
+## Seriously, 🛑 stop 🛑 here and go to the [new docs](https://respresso.io/docs/integration-zeplin-extension)!
+
+---
+
+
 [<div align="center"><img src="https://github.com/pontehu/respresso-zeplin/blob/master/documentation/zeplin-header.png" height="220" /></div>](https://respresso.io)  
 
 # Export assets from Zeplin with Respresso Zeplin extension [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Don't%20waste%20your%20time%21%20Respresso%20automatically%20delivers%20your%20design%20assets%20into%20your%20Respresso%20project&url=https://respresso.io&via=respresso_io&hashtags=designers,tool,plugin,localization,image,color,app-icon,resources,design-assets,automation,adobe-xd) 
